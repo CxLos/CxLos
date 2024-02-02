@@ -6,6 +6,8 @@ Hello, my name is Carlos Bautista. I have a B.S in Business Administration with 
 
 ![](https://komarev.com/ghpvc/?username=CxLos&color=red)
 
+[![CxLos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxlos)](https://github.com/cxlos/github-readme-stats)
+
 <!--
 **CxLos/CxLos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
