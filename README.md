@@ -1,4 +1,8 @@
-### Hi there 👋
+### Carlos Bautista
+
+**` Digital Craftsman (Developer/ Data Analyst `**
+
+![](https://komarev.com/ghpvc/?username=CxLos&color=red)
 
 <!--
 **CxLos/CxLos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
