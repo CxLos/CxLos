@@ -8,11 +8,26 @@ Hello, my name is Carlos Bautista. I have a B.S in Business Administration with 
 
 <h2 align="center" style="font-size: 400px;">Languages ⚒️</h2>
    <div align="center">
-        <img height=30px src="https://skillicons.dev/icons?i=python,mysql,javascript,react,html,css,vscode,github,mongodb," />
+        <img height=30px src="https://skillicons.dev/icons?i=python,javascript,react,mysql,mongodb,html,css,vscode,github," />
     </div>
 
+<br>
+
+<h2 align="center" style="font-size: 400px;">Libraries 💻</h2>
+
+   <div align="center">
+   
+   ![Pandas Badge](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=yellow&labelColor=blue&color=gray)
+   ![Numpy Badge](https://img.shields.io/badge/-Numpy-blue?logo=numpy&logoColor=yellow&labelColor=blue&color=gray)
+   [![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-blue?logo=python&logoColor=yellow&labelColor=blue&color=gray)](https://matplotlib.org/)
+   [![Seaborn Badge](https://img.shields.io/badge/-Seaborn-blue?labelColor=blue&color=gray)](https://seaborn.pydata.org/)
+   [![Plotly Badge](https://img.shields.io/badge/-Plotly-blue?logo=plotly&labelColor=blue&color=gray)](https://plotly.com/)
+   
+   </div>
+   
 <br/>
-<br/>
+
+<h2 align="center" style="font-size: 400px;">Stats 📊</h2>
 
 <div style="display: flex; justify-content: center;">
 
