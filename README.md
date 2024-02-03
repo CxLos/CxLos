@@ -14,14 +14,6 @@ Hello, my name is Carlos Bautista. I have a B.S in Business Administration with 
 <br/>
 <br/>
 
-<div align="center">
-  <h2>🐍 Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CxLos/CxLos/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 [![CxLos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxlos&theme=transparent)](https://github.com/cxlos/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxlos&layout=compact&theme=transparent)](https://github.com/cxlos/cxlos)
