@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&color=0284F7FF&duration=5000&pause=1&width=435&height=50&lines=Data+Analyst;Data+Scientist)](https://git.io/typing-svg)
 
-Welcome! I'm Carlos Bautista, a data engineer and developer based in Austin, TX. I hold a B.S. in Business Administration and specialize in building scalable, cloud-native data applications.
+Welcome! I'm Carlos Bautista, a data engineer and developer based in Austin. I specialize in building scalable, cloud-native data applications.
 
 My journey began with UT Austin’s Full Stack Web Development Bootcamp, followed by IBM’s Data Analyst and Data Science Professional Certificates. I’ve since focused on real-time analytics, Kafka streaming, and deploying resilient dashboards using Python, Dash, and Plotly.
 
