@@ -2,9 +2,21 @@
 
 # Carlos Bautista
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&color=0284F7FF&duration=5000&pause=1&width=435&height=50&lines=Data+Analyst;Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&color=0284F7FF&duration=5000&pause=1&width=435&height=50&lines=Data+Analyst;Data+Scientist)](https://git.io/typing-svg)
 
-Hello and welcome to my GitHub! My name is Carlos Bautista. I have a B.S in Business Administration with a concentration in International Business from Montclair State University. I am originally from New Jersey and moved to Austin in 2021. It was here in this city that I really became exposed to the tech world and found out that data science was the career path for me. I started my journey by enrolling in the Coding Bootcamp Certificate Program with UT Austin where I learned about the fundamentals of web development. I learned how to code on the front end as well as the backend where I primarily utilized JavaScript, React, SQL, HTML, and CSS. After Successful completion of this program, I decided to further my skills even more by enrolling the IBM Data Analyst Professional Certificate Program. Here I learned about the principles and fundamentals of Data Science where I focused primarily on coding with SQL, Python, and its libraries (numpy, pandas, matplotlib etc.). Please feel free to take a look at my projects!
+Welcome! I'm Carlos Bautista, a data engineer and developer based in Austin, TX. I hold a B.S. in Business Administration and specialize in building scalable, cloud-native data applications.
+
+My journey began with UT Austin’s Full Stack Web Development Bootcamp, followed by IBM’s Data Analyst and Data Science Professional Certificates. I’ve since focused on real-time analytics, Kafka streaming, and deploying resilient dashboards using Python, Dash, and Plotly.
+
+My skill set spans:
+
+ML & AI: Model development, data preprocessing, and visualization
+
+Cloud & Streaming: Kafka, threading, SASL_SSL, and secure architecture
+
+Engineering: Modular design, persistent storage, and deployment optimization
+
+Explore my projects to see how I turn data into decisions—reliably, securely, and at scale.
 
 <h2 align="center" style="font-size: 400px;">Languages ⚒️</h2>
    <div align="center">
