@@ -2,7 +2,7 @@
 
 # Carlos Bautista
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&color=0284F7FF&duration=5000&pause=1&width=435&height=50&lines=Data+Analyst;Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&color=0284F7FF&duration=5000&pause=1&width=435&height=50&lines=Data+Engineer;Data+Scientist)](https://git.io/typing-svg)
 
 Welcome! I'm Carlos Bautista, a data engineer and developer based in Austin. I specialize in building scalable, cloud-native data applications.
 
